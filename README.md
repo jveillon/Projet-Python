@@ -20,8 +20,8 @@ pass
 
 ## Recommandation d'exécution
 
-La création des bases de données via les deux API de Twitter a nécessité l'utilisation de bearers liés à différents comptes. Nous ne mettons évidemment pas à disposition ces bearers, et invitons le lecteur de ce projet, s'il le souhaite, à utiliser ses propres bearers, pouvant facilement être générés en créant un compte développeur Twitter. Pour plus d'information à ce sujet, veuillez consulter l'adresse suivante : https://developer.twitter.com/en/support/twitter-api/developer-account
+La création des bases de données via les deux API de Twitter a nécessité l'utilisation de bearers liés à différents comptes. Nous ne mettons évidemment pas à disposition ces bearers, et invitons le lecteur, s'il le souhaite, à utiliser ses propres bearers, pouvant facilement être générés en créant un compte développeur Twitter. Pour plus d'information à ce sujet, veuillez consulter l'adresse suivante : https://developer.twitter.com/en/support/twitter-api/developer-account
 
-Par ailleurs, la visualisation sur Python des graphes obtenus, que ce soit avec scikit-network ou avec pyvis, est très coûteuse. Ainsi, nous invitons le lecteur de ce projet d'utiliser la petite base de données pour la visualisation des graphes, et la grosse base de données pour la détermination des différents clusters - qui elle en revanche est très rapide même pour la grosse base de données.
+Par ailleurs, la visualisation sur Python des graphes obtenus, que ce soit avec scikit-network ou avec pyvis, est très coûteuse. Ainsi, nous invitons le lecteur à utiliser la petite base de données pour la visualisation des graphes, et la grosse base de données pour la détermination des différents clusters - qui elle en revanche est très rapide.
 
 
