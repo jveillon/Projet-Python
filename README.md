@@ -15,10 +15,10 @@ Ce projet s'est articulé autour des tweets français récoltés lors du match �
 
 ## Lien vers le Notebook de présentation
 
-pass
+https://github.com/jveillon/Projet-Python/blob/main/Pr%C3%A9sentation_Projet.ipynb
 
 
-## Recommandation d'exécution
+## Recommandations d'exécution
 
 La création des bases de données via les deux API de Twitter a nécessité l'utilisation de bearers liés à différents comptes. Nous ne mettons évidemment pas à disposition ces bearers, et invitons le lecteur, s'il le souhaite, à utiliser ses propres bearers, pouvant facilement être générés en créant un compte développeur Twitter. Pour plus d'information à ce sujet, veuillez consulter l'adresse suivante : https://developer.twitter.com/en/support/twitter-api/developer-account
 
