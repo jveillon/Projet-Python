@@ -13,10 +13,13 @@ Dans ce projet, nous tenterons de répondre à la problématique suivante : **Da
 Ce projet s'est articulé autour des tweets français récoltés lors du match 🇦🇷 - 🇭🇷 du mardi 13 décembre. Nous avons souhaité travailler sur ce jeu de données dans une volonté de traiter un exemple d'actualité, mais ce projet peut évidemment s'étendre à l'étude d'autre types de requêtes Twitter.
 
 
-## Lien vers le Notebook de présentation
+## Lien vers le Notebook de présentation du projet
 
 https://github.com/jveillon/Projet-Python/blob/main/Pr%C3%A9sentation_Projet.ipynb
 
+## Lien vers le Notebook de présentation des résultats obtenus (notebook final)
+
+https://github.com/jveillon/Projet-Python/blob/main/Analyse_descriptive_et_repr%C3%A9sentation_graphique/Cluster_analysis.ipynb
 
 ## Recommandations d'exécution
 
